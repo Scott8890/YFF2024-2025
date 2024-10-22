@@ -1,0 +1,16 @@
+.float {
+}
+img{
+    border: solid 2px black;
+    border-radius: 20px;
+    margin-right: 40px;
+    margin-top: 40px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+}
+body {
+    display: block;
+    margin: 7px;
+}
