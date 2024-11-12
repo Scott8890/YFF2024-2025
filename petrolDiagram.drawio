@@ -1,0 +1,111 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Page-1" id="a8EuQVt_dlcF9V1sZ6AW">
+    <mxGraphModel dx="1343" dy="1892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0EsCiBqkypMDnal1B7_x-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="0EsCiBqkypMDnal1B7_x-29" target="0EsCiBqkypMDnal1B7_x-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="-1050" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EsCiBqkypMDnal1B7_x-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0EsCiBqkypMDnal1B7_x-2" target="0EsCiBqkypMDnal1B7_x-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0EsCiBqkypMDnal1B7_x-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0EsCiBqkypMDnal1B7_x-2" target="0EsCiBqkypMDnal1B7_x-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0EsCiBqkypMDnal1B7_x-2" value="make variable = liter&lt;div&gt;make variable = pris&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="-910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0EsCiBqkypMDnal1B7_x-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0EsCiBqkypMDnal1B7_x-7" target="0EsCiBqkypMDnal1B7_x-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0EsCiBqkypMDnal1B7_x-7" value="pris = 22.15&lt;div&gt;antall liter =&amp;nbsp; &amp;nbsp;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="-910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0EsCiBqkypMDnal1B7_x-14" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0EsCiBqkypMDnal1B7_x-11" target="0EsCiBqkypMDnal1B7_x-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0EsCiBqkypMDnal1B7_x-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0EsCiBqkypMDnal1B7_x-11" target="0EsCiBqkypMDnal1B7_x-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0EsCiBqkypMDnal1B7_x-21" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="0EsCiBqkypMDnal1B7_x-16" vertex="1" connectable="0">
+          <mxGeometry x="0.045" y="5" relative="1" as="geometry">
+            <mxPoint x="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EsCiBqkypMDnal1B7_x-11" value="if under 80L" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="-790" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0EsCiBqkypMDnal1B7_x-13" value="show error too large amount" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="-780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0EsCiBqkypMDnal1B7_x-18" value="YES" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0EsCiBqkypMDnal1B7_x-15" target="0EsCiBqkypMDnal1B7_x-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0EsCiBqkypMDnal1B7_x-20" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0EsCiBqkypMDnal1B7_x-15" target="0EsCiBqkypMDnal1B7_x-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="-450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EsCiBqkypMDnal1B7_x-15" value="if under 5L" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="-670" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0EsCiBqkypMDnal1B7_x-17" value="show error amount too low" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="-660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0EsCiBqkypMDnal1B7_x-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0EsCiBqkypMDnal1B7_x-22" target="0EsCiBqkypMDnal1B7_x-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0EsCiBqkypMDnal1B7_x-26" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="0EsCiBqkypMDnal1B7_x-25" vertex="1" connectable="0">
+          <mxGeometry x="-0.37" y="3" relative="1" as="geometry">
+            <mxPoint y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EsCiBqkypMDnal1B7_x-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0EsCiBqkypMDnal1B7_x-22" target="0EsCiBqkypMDnal1B7_x-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0EsCiBqkypMDnal1B7_x-22" value="if under 0" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="-560" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0EsCiBqkypMDnal1B7_x-24" value="show error amount too low" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="-550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0EsCiBqkypMDnal1B7_x-29" value="start" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="-1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0EsCiBqkypMDnal1B7_x-30" value="liter" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="-1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0EsCiBqkypMDnal1B7_x-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0EsCiBqkypMDnal1B7_x-32" target="0EsCiBqkypMDnal1B7_x-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0EsCiBqkypMDnal1B7_x-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0EsCiBqkypMDnal1B7_x-32" target="0EsCiBqkypMDnal1B7_x-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0EsCiBqkypMDnal1B7_x-32" value="if over 50" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="-300" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0EsCiBqkypMDnal1B7_x-34" value="print out pris/ digita receit." style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="-140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0EsCiBqkypMDnal1B7_x-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0EsCiBqkypMDnal1B7_x-36" target="0EsCiBqkypMDnal1B7_x-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0EsCiBqkypMDnal1B7_x-36" value="remove 10% from pris" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="-180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0EsCiBqkypMDnal1B7_x-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0EsCiBqkypMDnal1B7_x-38" target="0EsCiBqkypMDnal1B7_x-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0EsCiBqkypMDnal1B7_x-38" value="calculate price, etc" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="-430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0EsCiBqkypMDnal1B7_x-41" value="print out pris/ digita receit." style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="-60" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
